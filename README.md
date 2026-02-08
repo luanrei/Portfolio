@@ -7,7 +7,7 @@ Here you’ll find a collection of projects and experiments I’ve worked on usi
 
 ### 🖥️ OS
 ![Debian](https://img.shields.io/badge/Debian-000000?style=for-the-badge&logo=debian&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=apple&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows&logoColor=blue)
 
 ---
 
