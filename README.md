@@ -31,7 +31,6 @@ Here you’ll find a collection of projects and experiments I’ve worked on usi
 ### ⚙️ Platforms
 ![Linux](https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux)
 ![Windows](https://img.shields.io/badge/Windows-000000?style=for-the-badge&logo=windows)
-![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple)
 
 ---
 
