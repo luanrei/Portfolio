@@ -16,7 +16,6 @@ Here you’ll find a collection of projects and experiments I’ve worked on usi
 ![PHP](https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php)
 ![Python](https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk)
-![C%23](https://img.shields.io/badge/C%23-000000?style=for-the-badge&logo=csharp)
 
 ---
 
